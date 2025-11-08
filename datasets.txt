@@ -1,1 +1,1 @@
-1 - https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHp1NjNXMmx4U1lvT1ZlenhEU0RBbWNlQWpHd3xBQ3Jtc0tscTE2VXFWaUhudk0zUkVZZllCZUxGZ1lGUHh4Q0RDaXZUY20xWW1ob3hYRlVaTmxuOXZveksxMkw5UzBjVnRvYlJtYmFLNGFJVGJoMFhaVWVHd2hneld1bTl3LS1MOXBmR2JJcndWQzRENDZkZkNNRQ&q=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Famanalisiddiqui%2Ffraud-detection-dataset%3Fresource%3Ddownload&v=4Od5_z28iIE
+1 - https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset?resource=download
