@@ -1,1 +1,2 @@
-1 - https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset?resource=download
+1 - https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023/data
+2 - https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset?resource=download
